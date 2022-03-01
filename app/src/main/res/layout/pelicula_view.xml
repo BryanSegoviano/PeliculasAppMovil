@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/img_view"
+        android:layout_margin="16dp"
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:src="@drawable/avengers"/>
+
+    <TextView
+        android:id="@+id/tv_nombre"
+        android:layout_width="135dp"
+        android:layout_height="match_parent"
+        android:gravity="left|center"
+        android:text="@string/peliUno"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textSize="28sp"
+        android:layout_marginRight="5dp"/>
+
+    <TextView
+        android:id="@+id/tv_duracion"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="left|center"
+        android:text="Duración: 240 minutos "
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_marginRight="10dp"/>
+
+</LinearLayout>

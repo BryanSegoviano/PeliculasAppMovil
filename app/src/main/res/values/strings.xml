@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+
+    <string name="peliUno">Avengers: Endgame</string>
+    <string name="peliUnoSinop">Después de los eventos devastadores de "Avengers: Infinity War", el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar detenerlo y restaurar el orden en el universo de una vez por todas.</string>
+
+    <string name="peliDos">Captain America: Civil War</string>
+    <string name="peliDosSinop">Mientras intentan detener a Rumlow en Lagos, Capitán América, Falcon, Viuda Negra y Bruja Escarlata se ven obligados a realizar una intervención para evitar el robo de una muestra letal en el Instituto de Enfermedades Infecciosas.</string>
+
+    <string name="peliTres">Joker</string>
+    <string name="peliTresSinop">Arthur Fleck adora hacer reír a la gente, pero su carrera como comediante es un fracaso. El repudio social, la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y, finalmente, cae en el mundo del crimen.</string>
+
+    <string name="peliCuatro">Buscando a Nemo</string>
+    <string name="peliCuatroSinop">Nemo, un pequeño pececillo, muy querido y protegido por su padre, se pierde fuera de la gran barrera del arrecife australiano, después de ser capturado por este arrecife, Nemo terminará en una pecera en Sidney.</string>
+
+    <string name="peliCinco">¡Shazam!</string>
+    <string name="peliCincoSinop">El joven de 14 años Billy Batson puede convertirse en un superhéroe adulto solo con gritar la palabra "¡Shazam!". Pero dentro de un cuerpo superpoderoso, Shazam esconde un corazón de niño.</string>
+
+    <string name="peliSeis">Wonder Woman 1984</string>
+    <string name="peliSeisSinop">Diana Prince, conocida como Wonder Woman se enfrenta a Cheetah, una villana que posee fuerza y agilidad sobrehumanas.</string>
+
+    <string name="peliSiete">Sonic la película</string>
+    <string name="peliSieteSinop">Sonic intenta navegar por las complejidades de la vida en la Tierra con su nuevo mejor amigo, un humano llamado Tom Wachowski. Pronto deben unir fuerzas para evitar que el malvado Dr. Robotnik capture a Sonic y use sus poderes para dominar el mundo.Sonic intenta navegar por las complejidades de la vida en la Tierra con su nuevo mejor amigo, un humano llamado Tom Wachowski. Pronto deben unir fuerzas para evitar que el malvado Dr. Robotnik capture a Sonic y use sus poderes para dominar el mundo.</string>
+
+</resources>
