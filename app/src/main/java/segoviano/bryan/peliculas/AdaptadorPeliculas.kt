@@ -45,7 +45,7 @@ class AdaptadorPeliculas: BaseAdapter {
         var pelicula: Pelicula = this.peliculas[p0]
         iv_img.setImageResource(pelicula.imagen)
         tv_nombre.setText(pelicula.nombre)
-        tv_duracion.setText("Duración: " + pelicula.duracion.toString() + " minutos")
+        tv_duracion.setText("Duración: " + pelicula.duracion)
 
         vista.setOnClickListener{
             val intent: Intent = Intent(this.context, PeliculaActivity::class.java)

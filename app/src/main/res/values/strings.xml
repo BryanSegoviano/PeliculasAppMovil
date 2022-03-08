@@ -22,4 +22,50 @@
     <string name="peliSiete">Sonic la película</string>
     <string name="peliSieteSinop">Sonic intenta navegar por las complejidades de la vida en la Tierra con su nuevo mejor amigo, un humano llamado Tom Wachowski. Pronto deben unir fuerzas para evitar que el malvado Dr. Robotnik capture a Sonic y use sus poderes para dominar el mundo.Sonic intenta navegar por las complejidades de la vida en la Tierra con su nuevo mejor amigo, un humano llamado Tom Wachowski. Pronto deben unir fuerzas para evitar que el malvado Dr. Robotnik capture a Sonic y use sus poderes para dominar el mundo.</string>
 
+    <string name="serieUno">The Boys</string>
+    <string name="serieUnoSinop">Cuando los superhéroes abusan de sus superpoderes en lugar de usarlos para el bien, The Boys se embarcan en una búsqueda heroica para exponer secretos. </string>
+
+    <string name="serieDos">La casa de papel</string>
+    <string name="serieDosSinop">Una banda organizada de ladrones se propone cometer el atraco del siglo en la Fábrica Nacional de Moneda y Timbre. Cinco meses de preparación quedarán reducidos a once días para poder llevar a cabo con éxito el gran golpe.</string>
+
+    <string name="serieTres">Dark</string>
+    <string name="serieTresSinop">La desaparición de dos niños muestra los vínculos entre cuatro familias y expone el pasado de una pequeña ciudad. </string>
+
+    <string name="serieCuatro">Loki</string>
+    <string name="serieCuatroSinop">Loki, el Dios de las Mentiras, se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de "Vengadores: Endgame". </string>
+
+    <string name="serieCinco">The Mandalorian</string>
+    <string name="serieCincoSinop">Las aventuras de Mando, un pistolero solitario y cazarrecompensas que se abre paso a través de las fronteras más remotas de la galaxia, lejos de la jurisdicción de la Nueva República. </string>
+
+    <string name="serieSeis">The Walking Dead</string>
+    <string name="serieSeisSinop">Describe las vidas de un grupo de sobrevivientes que está siempre en movimiento en busca de un hogar seguro durante las semanas y meses de un apocalipsis zombi. </string>
+
+    <string name="favUno">BoJack Horseman</string>
+    <string name="favUnoSinop">BoJack Horseman es un olvidado actor que supo vivir sus días de gloria gracias a una comedia televisiva, y que se enfrenta a las más duras crisis existenciales y adicciones mientras intenta volver a las grandes ligas. </string>
+
+    <string name="favDos">Breaking Bad</string>
+    <string name="favDosSinop">Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos </string>
+
+    <string name="favTres">Juego de tronos</string>
+    <string name="favTresSinop">En un mundo fantástico y en un contexto medieval varias familias, relativas a la nobleza, se disputan el poder para dominar el territorio ficticio de Poniente (Westeros) y tomar el control de los Siete Reinos desde el Trono de Hierro, lugar donde el rey ejerce el poder. </string>
+
+    <string name="favCuatro">13 Reasons Why</string>
+    <string name="favCuatroSinop">Después de que una mujer joven se quite la vida, su compañero de clase encuentra una misteriosa caja en su patio. </string>
+
+    <string name="favCinco">Attack on Titan</string>
+    <string name="favCincoSinop">Un joven, su hermana y su mejor amigo deciden desafiar el conformismo en el que está sumido la humanidad y se embarcan en una aventura en busca de venganza contra los titanes, quienes aparecieron hace cien años para alimentarse de seres humanos. </string>
+
+
+    <string name="title_activity_navigation_activy">NavigationActivy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bryan Segoviano</string>
+    <string name="nav_header_subtitle">bryan.segoviano@potros.itson.edu.mx</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Peliculas</string>
+    <string name="menu_gallery">Series</string>
+    <string name="menu_slideshow">Favoritos</string>
+
 </resources>
